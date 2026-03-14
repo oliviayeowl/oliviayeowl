@@ -1,16 +1,13 @@
 # 💫 About Me:
 Hello! |˶˙ᵕ˙ )ﾉﾞ<br><br>I'm Olivia, a second-year Linguistics student in NTU Singapore.<br> <br>I'm interested in computational linguistics including natural language processing and speech technologies!<br><br>Outside of my studies, you'll find me baking and drawing. I also enjoy reading books and articles. <br><br>Fun Fact:<br>1) I cannot drink coffee.<br>2) I am deathly afraid of cockroaches. 
 
+## ⭐ Projects
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=oliviayeowl&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=oliviayeowl&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=oliviayeowl&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- **[Early-Childhood-Stuttering-Prediction-RoBERTa](https://github.com/oliviayeowl/Early-Childhood-Stuttering-Prediction-using-RoBERTa)**  
+  A transformer-based NLP project that applies RoBERTa with BIO tagging to detect disfluencies in child speech transcripts, exploring computational approaches for early childhood stuttering prediction.
 
----
-[![](https://visitcount.itsvg.in/api?id=oliviayeowl&icon=0&color=0)](https://visitcount.itsvg.in)
-
+- **[HG2051: Spam Or Not? Machine Learning for SMS and Email Classification](https://github.com/oliviayeowl/HG2051-Spam-Text-Classifier)**
+  A Naive Bayes spam classifier trained on SMS messages and evaluated on email datasets to investigate cross-domain spam detection using linguistically motivated features.
+  
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
