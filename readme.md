@@ -9,7 +9,6 @@ Fun Fact:
 1) I cannot drink coffee.  
 2) I am deathly afraid of cockroaches.  
 
----
 
 ## ⭐ Projects
 
@@ -19,12 +18,10 @@ Fun Fact:
 - **[HG2051: Spam Or Not? Machine Learning for SMS and Email Classification](https://github.com/oliviayeowl/HG2051-Spam-Text-Classifier)**  
   A Naive Bayes spam classifier trained on SMS messages and evaluated on email datasets to investigate cross-domain spam detection using linguistically motivated features.
 
----
 
 ## 🤝 Connect With Me
 
-I'm always happy to connect with you!
+Interested in Linguistics, NLP, and language technologies? Let's connect! ദ്ദി(ᵔᗜᵔ)
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK/)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
