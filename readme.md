@@ -15,7 +15,7 @@ Fun Fact:
 - **[Early-Childhood-Stuttering-Prediction-RoBERTa](https://github.com/oliviayeowl/Early-Childhood-Stuttering-Prediction-using-RoBERTa)**  
   A transformer-based NLP project that applies RoBERTa with BIO tagging to detect disfluencies in child speech transcripts, exploring computational approaches for early childhood stuttering prediction.
 
-- **[HG2051: Spam Or Not? Machine Learning for SMS and Email Classification](https://github.com/oliviayeowl/HG2051-Spam-Text-Classifier)**  
+- **[HG2051: Spam Or Not? Machine Learning for SMS and Email Classification](https://github.com/oliviayeowl/HG2051-Spam-Text-Classifier-)**  
   A Naive Bayes spam classifier trained on SMS messages and evaluated on email datasets to investigate cross-domain spam detection using linguistically motivated features.
 
 
