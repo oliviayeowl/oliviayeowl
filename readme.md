@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hello! |˶˙ᵕ˙ )ﾉﾞ  
 
-I'm Olivia, a second-year Linguistics student in NTU Singapore!  
+I'm Wan Ling (Olivia works too!), a second-year Linguistics student in NTU Singapore!  
 
 I'm interested in computational linguistics, especially in natural language processing and speech technologies! Outside of my studies, you'll find me baking and drawing. I also enjoy reading books and articles.  
 
