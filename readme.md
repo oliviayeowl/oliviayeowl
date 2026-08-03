@@ -1,11 +1,11 @@
 # 💫 About Me:
 Hello! |˶˙ᵕ˙ )ﾉﾞ  
 
-I'm Wan Ling (Olivia works too!), a second-year Linguistics student in NTU Singapore!  
+I'm Wan Ling (Olivia works too!), a third-year Linguistics student in NTU Singapore!  
 
-I'm interested in computational linguistics, especially in natural language processing and speech technologies! Outside of my studies, you'll find me baking and drawing. I also enjoy reading books and articles.  
+I'm interested in computational linguistics, especially in natural language processing and speech technology! Outside of my studies, you'll find me baking and drawing. I also enjoy reading books and articles.  
 
-Fun Fact:  
+Fun Facts:  
 1) I cannot drink coffee.  
 2) I am deathly afraid of cockroaches.  
 
@@ -24,7 +24,7 @@ Fun Fact:
 
 ## 🤝 Connect With Me
 
-Interested in Linguistics, NLP, and language technologies? Let's connect! ദ്ദി(ᵔᗜᵔ)
+Interested in Linguistics, NLP, and speech technology? Let's connect! ദ്ദി(ᵔᗜᵔ)
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINK/)
 
