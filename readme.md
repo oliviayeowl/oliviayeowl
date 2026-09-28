@@ -12,7 +12,7 @@ Fun Facts:
 
 ## ⭐ Projects
 
-- [Phonetic Approximation in Polyglot-Lion's Code Switching Errors](https://github.com/oliviayeowl/Phonetic-Approximation-in-PolyglotLions-Code-Switching-Errors)
+- **[Phonetic Approximation in Polyglot-Lion's Code Switching Errors](https://github.com/oliviayeowl/Phonetic-Approximation-in-PolyglotLions-Code-Switching-Errors)**
   Code and analyses for investigating Polyglot-Lion’s code-switching errors in Singapore conversational speech, with a focus on error patterns, phonetic approximation, and cross-linguistic sound adaptation.
 
 - **[Early-Childhood-Stuttering-Prediction-DistillRoBERTa](https://github.com/oliviayeowl/Early-Childhood-Stuttering-Prediction-using-RoBERTa)**  
